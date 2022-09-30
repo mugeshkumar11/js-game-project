@@ -109,6 +109,4 @@ var stage1operation = function(){
 }
 
 
-
-
 startEle.addEventListener('click',stage1operation);
